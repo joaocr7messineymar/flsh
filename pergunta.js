@@ -1,18 +1,18 @@
 criaCartao (
     'Geografia',
-    'Qual a capital da Argentina?',
-    'Buenos Aires'
+    'Qual a capital de portuga?',
+    'lisboa'
 )
 
 criaCartao (
     'Esporte',
-    'Em qual cidade foi realizada as olimpíadas de 2012?',
-    'Londres'
+    'qual é o jogador de futebol que tem mais gols?',
+    'cristiano ronaldo'
 )
 criaCartao (
     'Matemática',
-    'O que é o Teorema de Pitágoras?',
-    'É uma expressão matemática que relaciona as medidas dos lados de um triângulo retângulo, conhecidos como catetos e hipotenusa.'
+    'quantos é 2×9?',
+    '18'
 )
 criaCartao(
     'Química',
@@ -26,6 +26,6 @@ criaCartao (
 )
 criaCartao (
     'História',
-    'Qual foi o marco da Revolução Francesa?',
-    'Teve como grande marco a Queda da Bastilha, que aconteceu no dia 14 de julho de 1789, espalhou-se pela França e aconteceu entre 1789 e 1799'
+    'quanto tempo durou a 1 guerra mundia?',
+    'de 1914 ate 1918, ou seja, 4 anos de guerra.'
 )
